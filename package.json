@@ -1,13 +1,12 @@
-{
-  "name": "thecrownlauncher",
+{  "name": "thecrownlauncher",
   "version": "2.0.0",
   "productName": "Crown Launcher",
   "description": "Tarlalala",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/) and Louaxa16 (https://github.com/Louxa16/)",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) and Louxa16 (https://github.com/Louxa16/)",
   "license": "UNLICENSED",
   "homepage": "https://github.com/Louxa16/thecrownlauncher",
   "bugs": {
-    "url": "https://github.com/Louaxa16/thecrownlauncher/issues"
+    "url": "https://github.com/Louxa16/thecrownlauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -44,6 +43,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Louaxa16/TheCrownLauncher.git"
+    "url": "git+https://github.com/Louxa16/TheCrownLauncher.git"
   }
 }
