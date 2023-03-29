@@ -215,14 +215,14 @@ loginButton.addEventListener('click', () => {
 
         let actualDisplayableError
         if(isDisplayableError(displayableError)) {
-            msftLoginLogger.error('Error while logging in.', displayableError)
+            msftLoginLogger.error('Erreur pendant la connexion.', displayableError)
             actualDisplayableError = displayableError
         } else {
             // Uh oh.
-            msftLoginLogger.error('Unhandled error during login.', displayableError)
+            msftLoginLogger.error('Erreur non traitée durant la connexion.', displayableError)
             actualDisplayableError = {
-                title: 'Unknown Error During Login',
-                desc: 'An unknown error has occurred. Please see the console for details.'
+                title: 'Erreur inconnue durant la connexion',
+                desc: 'Une erreur incconue est arrivée, voir la ocnsole pour plus dinformation.'
             }
         }
 
