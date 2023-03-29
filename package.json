@@ -1,5 +1,5 @@
 {  "name": "thecrownlauncher",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "productName": "Crown Launcher",
   "description": "The Crown Launcher",
   "author": "Daniel Scalzi (https://github.com/dscalzi/) and Louxa16 (https://github.com/Louxa16/)",
@@ -31,7 +31,7 @@
     "fs-extra": "^11.1.1",
     "github-syntax-dark": "^0.5.0",
     "got": "^11.8.5",
-    "helios-core": "~2.0.0",
+    "helios-core": "~2.0.2",
     "helios-distribution-types": "^1.2.0",
     "jquery": "^3.6.4",
     "semver": "^7.3.8"
