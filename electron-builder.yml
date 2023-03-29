@@ -1,5 +1,5 @@
 appId: 'thecrownlauncher'
-productName: 'TheCrown Launcher'
+productName: 'The Crown Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2018-2022 Daniel Scalzi and Louxa16'
