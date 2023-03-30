@@ -11,18 +11,18 @@
 
 ## Caractéristiques
 
-* 🔒 Gestion complète des comptes.
+* 🔒 **Gestion complète des comptes.**
   * Ajoutez plusieurs comptes et basculez facilement entre eux.
   * Authentification Microsoft (OAuth 2.0) + Mojang (Yggdrasil) entièrement prise en charge.
   * Les informations d'identification ne sont jamais stockées et transmises directement à Mojang.
-* 📂 Gestion efficace des actifs.
+* 📂 **Gestion efficace des actifs.**
   * Recevez les mises à jour des clients dès que nous les publions.
   * Les fichiers sont validés avant le lancement. Les fichiers corrompus ou incorrects seront retéléchargés.
 * ☕ **Validation Java automatique.**
   * Si vous avez installé une version incompatible de Java, nous installerons la bonne *pour vous*.
   * Vous n'avez pas besoin d'avoir Java installé pour exécuter le lanceur.
-* 📰 Fil d'actualité intégré nativement au launcher.
-* ⚙️ Gestion intuitive des paramètres, y compris un panneau de configuration Java.
+* 📰 **Fil d'actualité intégré nativement au launcher.**
+* ⚙️ **Gestion intuitive des paramètres, y compris un panneau de configuration Java.**
 * Prend en charge tous nos serveurs.
   * Basculez facilement entre les configurations de serveur.
   * Afficher le nombre de joueurs du serveur sélectionné.
