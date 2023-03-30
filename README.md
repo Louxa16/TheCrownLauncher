@@ -4,7 +4,7 @@
 
 <em><h5 align="center">(Fait Avec Electron)</h5></em>
 
-<p align="center">🩻 **Le code source** de The Crown Launcher, le launcher pour le Serveur Minecraft Moddé The Crown.</p>
+*<p align="center">🩻 **Le code source** de The Crown Launcher, le launcher pour le Serveur Minecraft Moddé The Crown.</p>
 
 ![Screenshot 1](https://i.imgur.com/6o7SmH6.png)
 ![Screenshot 2](https://i.imgur.com/x3B34n1.png)
