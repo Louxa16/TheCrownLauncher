@@ -46,7 +46,7 @@ Tu peux télécharger [GitHub Releases](https://github.com/Louxa16/TheCrownLaunc
 
 The best way to contact the developers is on Discord.
 
-[![discord](https://discordapp.com/api/guilds/1089278452739354765/embed.png?style=banner3)][discord]
+[![discord](https://discordapp.com/api/guilds/1089278452739354765/embed.png?style=banner2)][discord]
 
 ---
 
