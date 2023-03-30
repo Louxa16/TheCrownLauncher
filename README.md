@@ -23,11 +23,11 @@
   * Vous n'avez pas besoin d'avoir Java installé pour exécuter le lanceur.
 * 📰 **Fil d'actualité intégré nativement au launcher.**
 * ⚙️ **Gestion intuitive des paramètres, y compris un panneau de configuration Java.**
-* Prend en charge tous nos serveurs.
+* 📟 **Prend en charge tous nos serveurs.**
   * Basculez facilement entre les configurations de serveur.
   * Afficher le nombre de joueurs du serveur sélectionné.
-* Mises à jour automatiques.
-* Voir l'état des services de Mojang.
+* 🔁 **Mises à jour automatiques.**
+* 🚦 **Voir l'état des services de Mojang.**
 
 Ce n'est pas une liste exhaustive. Téléchargez et installez le launcher pour évaluer tout ce qu'il peut faire !
 
