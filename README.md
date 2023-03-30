@@ -34,11 +34,9 @@ Ce n'est pas une liste exhaustive. Téléchargez et installez le launcher pour �
 #### Tu aimes le projet ? Laisse une ⭐ étoile sur le répertoire!
 
 ## Téléchargement
-Tu peux télécharger[GitHub Releases](https://github.com/Louxa16/TheCrownLauncher/releases)
-
-#### Dernière Mise à jour
-
 [![](https://img.shields.io/github/release/Louxa16/TheCrownLauncher.svg?style=flat-square)]
+Tu peux télécharger [GitHub Releases](https://github.com/Louxa16/TheCrownLauncher/releases)
+
 ---
 
 ## Resources
