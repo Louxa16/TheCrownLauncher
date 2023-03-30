@@ -19,7 +19,7 @@ Information pour The Crown<p align="center"> **🩻 Le code source** de The Crow
   * Recevez les mises à jour des clients dès que nous les publions.
   * Les fichiers sont validés avant le lancement. Les fichiers corrompus ou incorrects seront retéléchargés.
 * ☕ **Validation Java automatique.**
-  * Si vous avez installé une version incompatible de Java, nous installerons la bonne *pour vous*.
+  * Si vous avez installé une version incompatible de Java, nous installerons la bonne version *pour vous*.
   * Vous n'avez pas besoin d'avoir Java installé pour exécuter le lanceur.
 * 📰 **Fil d'actualité intégré nativement au launcher.**
 * ⚙️ **Gestion intuitive des paramètres, y compris un panneau de configuration Java.**
