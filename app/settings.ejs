@@ -242,10 +242,10 @@
                             </svg>
                         </div>
                         <input class="settingsFileSelVal" id="settingsJavaExecVal" type="text" value="null" cValue="JavaExecutable" serverDependent disabled>
-                        <button class="settingsFileSelButton" id="settingsJavaExecSel" dialogTitle="Select Java Executable" dialogDirectory="false">Choose File</button>
+                        <button class="settingsFileSelButton" id="settingsJavaExecSel" dialogTitle="Select Java Executable" dialogDirectory="false">Choisir un fichier</button>
                     </div>
                 </div>
-                <div class="settingsFileSelDesc">The Java executable is validated before game launch. <strong id="settingsJavaReqDesc">Requires Java 8 x64.</strong><br>The path should end with <strong>bin<%= process.platform === 'win32' ? '\\javaw.exe' : '/java' %></strong>.</div>
+                <div class="settingsFileSelDesc">Le java va être vérifier avant de lancer le jeu. <strong id="settingsJavaReqDesc">Java 8 x64 requis.</strong><br>Le path devrait finir avec <strong>bin<%= process.platform === 'win32' ? '\\javaw.exe' : '/java' %></strong>.</div>
             </div>
             <div id="settingsJVMOptsContainer">
                 <div id="settingsJVMOptsTitle">Option JDV additionel </div>
@@ -266,7 +266,7 @@
                     </div>
                     <input id="settingsJVMOptsVal" cValue="JVMOptions" serverDependent type="text">
                 </div>
-                <div id="settingsJVMOptsDesc">Option to be provided to the JVM at runtime. <em>-Xms</em> and <em>-Xmx</em> should not be included.<br><a href="https://docs.oracle.com/javase/8/docs/technotes/tools/<%= process.platform === 'win32' ? 'windows' : 'unix' %>/java.html" id="settingsJvmOptsLink">Available Options for Java 8</a>.</div>
+                <div id="settingsJVMOptsDesc">Option qui s'on en rapport avec Java. <em>-Xms</em> and <em>-Xmx</em> ne devrait pas être inclus.<br><a href="https://docs.oracle.com/javase/8/docs/technotes/tools/<%= process.platform === 'win32' ? 'windows' : 'unix' %>/java.html" id="settingsJvmOptsLink">Option disponible pour Java 8</a>.</div>
             </div>
         </div>
         <div id="settingsTabLauncher" class="settingsTab" style="display: none;">
@@ -347,7 +347,7 @@
                     </div>
                 </div>
                 <div class="settingsChangelogActions">
-                    <a class="settingsChangelogButton settingsAboutButton" href="#">Aller voir le patch note sutr github</a>
+                    <a class="settingsChangelogButton settingsAboutButton" href="#">Aller voir le patch note sur github</a>
                 </div>
             </div>
         </div>
