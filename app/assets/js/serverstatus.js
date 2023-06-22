@@ -23,7 +23,7 @@ exports.getStatus = function(address, port = 25565){
             socket.write(buff)
         })
 
-        socket.setTimeout(1000000, () => {
+        socket.setTimeout(10000000000000000, () => {
             socket.end()
             reject({
                 code: 'ETIMEDOUT',
