@@ -31,15 +31,15 @@
     "fs-extra": "^11.1.1",
     "github-syntax-dark": "^0.5.0",
     "got": "^11.8.5",
-    "helios-core": "~2.0.2",
+    "helios-core": "~2.0.4",
     "helios-distribution-types": "^1.2.0",
     "jquery": "^3.6.4",
-    "semver": "^7.3.8"
+    "semver": "^7.4.0"
   },
   "devDependencies": {
-    "electron": "^23.2.0",
-    "electron-builder": "^24.1.1",
-    "eslint": "^8.36.0"
+    "electron": "^24.1.1",
+    "electron-builder": "^23.6.0",
+    "eslint": "^8.38.0"
   },
   "repository": {
     "type": "git",
